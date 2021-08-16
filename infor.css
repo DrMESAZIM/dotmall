@@ -1,0 +1,27 @@
+
+.info .informative{
+	font-size: 200%;
+	line-height: 3rem;
+}
+
+.info .informative .head{
+	background:;
+	color: grey;
+	text-align: center;
+	font-size: 2rem;
+	line-height: 3rem;
+}
+
+.info .informative .buy-now{
+	color: red;
+	font-size: 2rem;
+	border-left: 3px solid red;
+}
+
+.info .informative .promotion h1{
+  color: red;
+  line-height: 3rem;
+}
+.info .informative .para{
+	color: red;
+}
